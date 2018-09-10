@@ -1,4 +1,4 @@
-# STAT545
+# STAT545: Practicing Merging
 ## Self Introduction
 
 Hello, My name is Alexa Tanner, a PhD student at UBC in the [Institute of Resources, Environment and Sustainability](http://ires.ubc.ca).
